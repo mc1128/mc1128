@@ -1,7 +1,5 @@
-HELLO TEST
-
-<h1 align="center">Hi 👋, I'm Hwang MinCheol</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h1 align="center">HELLO 👋, I'm Hwang MinCheol</h1>
+<h3 align="center">I want to be A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mc1128&label=Profile%20views&color=0e75b6&style=flat" alt="mc1128" /> </p>
 
